@@ -1,0 +1,10 @@
+{
+    "slug": "default",
+    "name": "Default",
+    "author": "Prappo Prince",
+    "email": "prappo.prince@gmail.com",
+    "description": "This is an example theme.",
+    "web": "www.example.com",
+    "license": "MIT",
+    "version": "1.0"
+}
